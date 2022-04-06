@@ -91,3 +91,16 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 ## Running CodeIgniter Tests
 
 Information on running the CodeIgniter test suite can be found in the [README.md](tests/README.md) file in the tests directory.
+
+
+Para este proyecto es necesario Xampp, composer y sql
+
+
+instalacion de composer
+
+npm install composer
+
+
+instalacion de xampp
+
+https://www.youtube.com/watch?v=MtllDrDm4cM
