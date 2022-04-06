@@ -1,0 +1,140 @@
+CRITICAL - 2022-01-26 09:45:04 --> syntax error, unexpected '$query' (T_VARIABLE)
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-26 09:45:45 --> syntax error, unexpected '$query' (T_VARIABLE)
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-01-26 09:45:49 --> Table 'b.ingeniero' doesn't exist
+CRITICAL - 2022-01-26 09:45:49 --> Call to a member function getResultarray() on bool
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getshow()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-01-26 09:46:10 --> Table 'b.ingeniero' doesn't exist
+CRITICAL - 2022-01-26 09:46:10 --> Call to a member function getResultarray() on bool
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getshow()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-26 10:50:07 --> syntax error, unexpected ':'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-26 10:50:08 --> syntax error, unexpected ':'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-26 10:50:09 --> syntax error, unexpected ':'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-01-26 11:07:56 --> Column 'id_ingeniero' in field list is ambiguous
+CRITICAL - 2022-01-26 11:07:56 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getshow()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-01-26 11:31:57 --> Unknown column 'b.ing_nombre' in 'field list'
+CRITICAL - 2022-01-26 11:31:57 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getshow()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-26 11:38:43 --> Call to a member function getResultArray() on null
+#0 C:\xampp\htdocs\testing\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\testing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/searchi...', Array, true)
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(95): view('paginas/searchi...', Array)
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getshow()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-26 11:44:43 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-26 11:44:54 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-26 11:44:55 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-26 12:12:00 --> Call to a member function getResult() on null
+#0 C:\xampp\htdocs\testing\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\testing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/searchi...', Array, true)
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(96): view('paginas/searchi...', Array)
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getshow()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-26 12:36:43 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResultArray()
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getshow()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-26 12:37:09 --> Call to a member function getResultArray() on null
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getshow()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}

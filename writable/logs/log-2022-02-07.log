@@ -1,0 +1,185 @@
+CRITICAL - 2022-02-07 10:08:49 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/home', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(16): view('paginas/home')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Ajaxsearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxsearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-07 10:08:58 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/home', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(16): view('paginas/home')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Ajaxsearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxsearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-07 10:09:19 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/home', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(16): view('paginas/home')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Ajaxsearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxsearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-07 10:09:21 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/home', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(16): view('paginas/home')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Ajaxsearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxsearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-07 10:09:22 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/home', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(16): view('paginas/home')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Ajaxsearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxsearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-07 10:09:22 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/home', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(16): view('paginas/home')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Ajaxsearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxsearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-07 11:30:46 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-07 11:32:10 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-07 11:32:36 --> Class 'App\Models\Formulario' not found
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->search()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-07 11:32:59 --> Class 'App\Models\Formulario' not found
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->search()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-07 11:33:28 --> Class 'App\Models\Formulario' not found
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->search()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-07 11:33:54 --> Class 'App\Models\Formulario' not found
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->search()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-07 11:34:36 --> Class 'App\Models\Formulario' not found
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->search()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-07 11:38:24 --> Class 'App\Models\Formulario' not found
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-07 11:39:16 --> Class 'App\Models\Formulario' not found
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-07 11:39:17 --> Class 'App\Models\Formulario' not found
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-07 11:39:17 --> Class 'App\Models\Formulario' not found
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-07 11:39:18 --> Class 'App\Models\Formulario' not found
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-07 11:39:18 --> Class 'App\Models\Formulario' not found
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-07 11:39:40 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(11): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-07 12:08:43 --> View themes, no current section.
+#0 C:\xampp\htdocs\testing\app\Views\paginas\home.php(44): CodeIgniter\View\View->endSection()
+#1 C:\xampp\htdocs\testing\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\testing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/home', Array, true)
+#4 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(16): view('paginas/home')
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Ajaxsearch->index()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajaxsearch))
+#7 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-07 13:16:29 --> syntax error, unexpected '=', expecting ']'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-07 13:17:11 --> syntax error, unexpected '=', expecting ']'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-07 13:17:12 --> syntax error, unexpected '=', expecting ']'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}

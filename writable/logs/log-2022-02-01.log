@@ -1,0 +1,192 @@
+CRITICAL - 2022-02-01 07:33:45 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('ajaxsearch', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(10): view('ajaxsearch')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\ajaxSearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ajaxSearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 07:40:27 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('ajaxsearch', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(10): view('ajaxsearch')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\ajaxSearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ajaxSearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 07:40:38 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('ajaxsearch', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(10): view('ajaxsearch')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\ajaxSearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ajaxSearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 07:48:34 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('ajaxsearch', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(10): view('ajaxsearch')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\ajaxSearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ajaxSearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 07:56:40 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('ajaxsearch', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(10): view('ajaxsearch')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\ajaxSearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ajaxSearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 07:57:32 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('ajaxsearch', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(10): view('ajaxsearch')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\ajaxSearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ajaxSearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 08:06:42 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('ajaxsearch', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(10): view('ajaxsearch')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\ajaxSearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ajaxSearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 08:08:04 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('ajaxsearch', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(10): view('ajaxsearch')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\ajaxSearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ajaxSearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 08:08:06 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('ajaxsearch', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(10): view('ajaxsearch')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\ajaxSearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ajaxSearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 08:08:07 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('ajaxsearch', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(10): view('ajaxsearch')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\ajaxSearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ajaxSearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 08:08:07 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('ajaxsearch', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(10): view('ajaxsearch')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\ajaxSearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ajaxSearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 08:09:55 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('ajaxsearch', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(10): view('ajaxsearch')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\ajaxSearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ajaxSearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 08:12:03 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('ajaxsearch', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(10): view('ajaxsearch')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\ajaxSearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ajaxSearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 08:12:09 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('ajaxsearch', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(10): view('ajaxsearch')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\ajaxSearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ajaxSearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 08:22:57 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('ajaxsearch', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(10): view('ajaxsearch')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\ajaxSearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ajaxSearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 20:25:03 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('ajaxsearch', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Ajaxsearch.php(10): view('ajaxsearch')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\ajaxSearch->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ajaxSearch))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 21:05:15 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/ajaxsea...', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Main.php(10): view('paginas/ajaxsea...')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Main->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 21:05:18 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/ajaxsea...', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Main.php(10): view('paginas/ajaxsea...')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Main->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 21:06:09 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/ajaxsea...', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Main.php(10): view('paginas/ajaxsea...')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Main->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 21:06:44 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/ajaxsea...', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Main.php(10): view('paginas/ajaxsea...')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Main->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 21:06:47 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/ajaxsea...', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Main.php(10): view('paginas/ajaxsea...')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Main->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 21:07:23 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/ajaxsea...', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Main.php(10): view('paginas/ajaxsea...')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Main->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 21:07:29 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/ajaxsea...', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Main.php(10): view('paginas/ajaxsea...')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Main->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-01 21:08:18 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/ajaxsea...', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Main.php(10): view('paginas/ajaxsea...')
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Main->index()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}

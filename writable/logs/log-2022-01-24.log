@@ -1,0 +1,739 @@
+CRITICAL - 2022-01-24 13:17:57 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(78): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getSearching()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 13:20:52 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(78): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getSearching()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 13:20:53 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(78): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getSearching()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 16:25:13 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(78): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getSearching()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 16:25:17 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 16:25:20 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 16:25:29 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 16:27:38 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 16:27:39 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 16:37:59 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 16:41:27 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 16:41:28 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 16:41:37 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 16:41:40 --> Call to a member function getSearching() on null
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getSearching()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 16:41:44 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 16:41:56 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 16:46:59 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 16:47:00 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 16:47:16 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 16:47:17 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 16:47:18 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 16:47:18 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 16:48:32 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 17:05:13 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 17:05:14 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 17:05:15 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 17:05:15 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 17:08:55 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 17:08:56 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 17:08:57 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 17:25:04 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 17:26:21 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 17:31:20 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 17:31:21 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 17:31:22 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 17:31:29 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Form...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Form...')
+#3 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(10): spl_autoload_call('App\\Models\\Form...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->index()
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 17:37:25 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\testing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/searchi...', Array, true)
+#2 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(86): view('paginas/searchi...', Array)
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getSearching()
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-24 17:38:46 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('http://localhos...', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(86): view('http://localhos...', Array)
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getSearching()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-24 17:38:50 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('http://localhos...', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(86): view('http://localhos...', Array)
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getSearching()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-24 17:39:30 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('/searching', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(86): view('/searching', Array)
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getSearching()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-24 17:39:52 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('personas/search...', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(86): view('personas/search...', Array)
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getSearching()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-24 17:43:04 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('personas/search...', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(88): view('personas/search...', Array)
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getSearching()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-24 17:43:06 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('personas/search...', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(88): view('personas/search...', Array)
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getSearching()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-24 17:46:04 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('personas/search...', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(88): view('personas/search...', Array)
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getSearching()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-24 17:46:05 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('personas/search...', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(88): view('personas/search...', Array)
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getSearching()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-24 17:46:05 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('personas/search...', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(88): view('personas/search...', Array)
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getSearching()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-24 17:46:12 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('personas/search...', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(88): view('personas/search...', Array)
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getSearching()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-24 17:46:58 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('personas/search...', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(88): view('personas/search...', Array)
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-24 17:50:00 --> Can only throw objects
+#0 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('personas/search...', Array, true)
+#1 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(88): view('personas/search...', Array)
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-24 18:03:51 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\testing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/searchi...', Array, true)
+#2 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(87): view('paginas/searchi...', Array)
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-24 18:05:22 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\testing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/searchi...', Array, true)
+#2 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(87): view('paginas/searchi...', Array)
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-24 18:05:23 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\testing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/searchi...', Array, true)
+#2 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(87): view('paginas/searchi...', Array)
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-24 18:05:23 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\testing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/searchi...', Array, true)
+#2 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(87): view('paginas/searchi...', Array)
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-24 18:05:59 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\testing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/searchi...', Array, true)
+#2 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(87): view('paginas/searchi...', Array)
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-24 18:06:00 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\testing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/searchi...', Array, true)
+#2 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(87): view('paginas/searchi...', Array)
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-24 18:06:00 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\testing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/searchi...', Array, true)
+#2 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(87): view('paginas/searchi...', Array)
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-24 18:06:00 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\testing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/searchi...', Array, true)
+#2 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(87): view('paginas/searchi...', Array)
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-24 18:06:44 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\testing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/searchi...', Array, true)
+#2 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(87): view('paginas/searchi...', Array)
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-24 18:06:45 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\testing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/searchi...', Array, true)
+#2 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(87): view('paginas/searchi...', Array)
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-24 18:06:45 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\testing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/searchi...', Array, true)
+#2 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(87): view('paginas/searchi...', Array)
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-24 18:06:46 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\testing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\testing\system\Common.php(1089): CodeIgniter\View\View->render('paginas/searchi...', Array, true)
+#2 C:\xampp\htdocs\testing\app\Controllers\Formularios.php(87): view('paginas/searchi...', Array)
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-24 18:17:08 --> Call to a member function getsearching() on null
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 18:21:21 --> Call to a member function getsearching() on null
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 18:21:56 --> Call to a member function getsearching() on null
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 18:21:57 --> Call to a member function getsearching() on null
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 18:21:58 --> Call to a member function getsearching() on null
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 18:21:58 --> Call to a member function getsearching() on null
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 18:22:27 --> Call to a member function getsearching() on null
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 18:22:28 --> Call to a member function getsearching() on null
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 18:22:28 --> Call to a member function getsearching() on null
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 18:22:29 --> Call to a member function getsearching() on null
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 18:27:58 --> Call to a member function getsearching() on null
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 18:28:00 --> Call to a member function getsearching() on null
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 18:30:13 --> Call to a member function getsearching() on null
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 18:30:14 --> Call to a member function getsearching() on null
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 18:30:15 --> Call to a member function getsearching() on null
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Formularios->getsearching()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Formularios))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 18:32:18 --> syntax error, unexpected '$datos' (T_VARIABLE)
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 18:32:33 --> syntax error, unexpected '$datos' (T_VARIABLE)
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 18:35:44 --> syntax error, unexpected '$datos' (T_VARIABLE)
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 18:35:44 --> syntax error, unexpected '$datos' (T_VARIABLE)
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 18:38:51 --> syntax error, unexpected '$datos' (T_VARIABLE)
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 18:38:52 --> syntax error, unexpected '$datos' (T_VARIABLE)
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 18:44:49 --> syntax error, unexpected '$datos' (T_VARIABLE)
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-24 18:44:50 --> syntax error, unexpected '$datos' (T_VARIABLE)
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}

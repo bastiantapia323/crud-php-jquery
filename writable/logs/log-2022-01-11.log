@@ -1,0 +1,40 @@
+CRITICAL - 2022-01-11 17:58:58 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-11 17:59:59 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-11 18:00:45 --> syntax error, unexpected '>', expecting end of file
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-11 18:03:38 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\testing\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\testing\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\testing\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}

@@ -1,0 +1,70 @@
+CRITICAL - 2022-02-10 12:01:08 --> Class 'monken\TablesIgniter' not found
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Ajax_crud->fetch_all()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajax_crud))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-10 12:01:57 --> Class 'monken\TablesIgniter' not found
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Ajax_crud->fetch_all()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajax_crud))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-10 12:39:25 --> Class 'monken\TablesIgniter' not found
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Ajax_crud->fetch_all()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajax_crud))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-10 12:39:34 --> Class 'monken\TablesIgniter' not found
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Ajax_crud->fetch_all()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajax_crud))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-10 12:39:42 --> Class 'monken\TablesIgniter' not found
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Ajax_crud->fetch_all()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajax_crud))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-10 12:41:14 --> Class 'monken\TablesIgniter' not found
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Ajax_crud->fetch_all()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajax_crud))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-10 12:41:15 --> Class 'monken\TablesIgniter' not found
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Ajax_crud->fetch_all()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajax_crud))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-10 16:33:55 --> Class 'monken\TablesIgniter' not found
+#0 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Ajax_crud->fetch_all()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajax_crud))
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-10 17:54:42 --> Must be requested by jQuery DataTables.
+#0 C:\xampp\htdocs\testing\app\Controllers\Ajax_crud.php(24): monken\TablesIgniter->__construct()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Ajax_crud->fetch_all()
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajax_crud))
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 17:54:45 --> Must be requested by jQuery DataTables.
+#0 C:\xampp\htdocs\testing\app\Controllers\Ajax_crud.php(24): monken\TablesIgniter->__construct()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Ajax_crud->fetch_all()
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajax_crud))
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 17:54:47 --> Must be requested by jQuery DataTables.
+#0 C:\xampp\htdocs\testing\app\Controllers\Ajax_crud.php(24): monken\TablesIgniter->__construct()
+#1 C:\xampp\htdocs\testing\system\CodeIgniter.php(825): App\Controllers\Ajax_crud->fetch_all()
+#2 C:\xampp\htdocs\testing\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ajax_crud))
+#3 C:\xampp\htdocs\testing\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\testing\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-02-10 18:11:50 --> Unknown column 'name' in 'field list'
